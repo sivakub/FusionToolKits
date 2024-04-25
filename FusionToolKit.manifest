@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"addin",
+	"id":	"dac008d4-81d4-413c-8bc3-8efc296488a6",
+	"author":	"Boopathi",
+	"description":	{
+		"":	"Useful tool kits for Fusion"
+	},
+	"version":	"v1.0.0",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
